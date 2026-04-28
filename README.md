@@ -35,7 +35,6 @@
 profile = {
     "name"      : "Augie Aditama",
     "role"      : "Data Scientist & AI/ML Engineer",
-    "origin"    : "Indonesia",
     "focus"     : ["Deep Learning", "Computer Vision", "Predictive Modeling"],
     "current"   : "Building AI that actually works (mostly)",
     "philosophy": "Data never lies. My model does.",
@@ -160,7 +159,7 @@ profile = {
   <rect width="600" height="40" fill="#0d0d0d" rx="8"/>
   <line x1="0" y1="2" x2="600" y2="2" stroke="#ff003c" stroke-width="1" opacity="0.6"/>
   <line x1="0" y1="38" x2="600" y2="38" stroke="#00f5ff" stroke-width="1" opacity="0.6"/>
-  <text x="300" y="25" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#555555">[ DATA NEVER LIES · TAMARAW01 · INDONESIA ]</text>
+  <text x="300" y="25" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#555555">[ KEEP AN EYE FOR THIS SHIT ]</text>
 </svg>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tamaraw01&color=ff003c&style=flat-square&label=PROFILE+VIEWS)
