@@ -154,13 +154,20 @@ profile = {
 
 <div align="center">
 
-<!-- Footer -->
-<svg width="600" height="40" viewBox="0 0 600 40" xmlns="http://www.w3.org/2000/svg">
-  <rect width="600" height="40" fill="#0d0d0d" rx="8"/>
-  <line x1="0" y1="2" x2="600" y2="2" stroke="#ff003c" stroke-width="1" opacity="0.6"/>
-  <line x1="0" y1="38" x2="600" y2="38" stroke="#00f5ff" stroke-width="1" opacity="0.6"/>
-  <text x="300" y="25" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#555555">[ KEEP AN EYE FOR THIS SHIT ]</text>
-</svg>
+<!--
+  ╔══════════════════════════════════════════════════════════╗
+  ║  FOOTER PHOTO — CARA PASANG:                             ║
+  ║  Ganti URL src="" dengan URL foto footer kamu            ║
+  ║  Ukuran rekomendasi: 800x80px atau 1200x120px            ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
+
+<img
+  src="[https://YOUR_FOOTER_IMAGE_URL_HERE.png](https://i.pinimg.com/736x/4b/d8/8c/4bd88c24c8967e0c769612d0bc008499.jpg)"
+  alt="footer"
+  width="800"
+  style="border-radius: 8px;"
+/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tamaraw01&color=ff003c&style=flat-square&label=PROFILE+VIEWS)
 
