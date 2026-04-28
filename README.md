@@ -1,74 +1,24 @@
 <div align="center">
 
-<!-- CYBERPUNK ANIME HEADER SVG -->
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d0d0d"/>
-      <stop offset="50%" style="stop-color:#0a0a1a"/>
-      <stop offset="100%" style="stop-color:#0d0d0d"/>
-    </linearGradient>
-    <linearGradient id="glitch" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff003c"/>
-      <stop offset="50%" style="stop-color:#00f5ff"/>
-      <stop offset="100%" style="stop-color:#ff003c"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
+<!--
+  ╔══════════════════════════════════════════════════════════╗
+  ║  HEADER PHOTO — CARA PASANG:                             ║
+  ║  1. Upload foto/banner ke repo GitHub kamu               ║
+  ║  2. Copy URL raw foto tersebut                           ║
+  ║  3. Ganti URL di src="" di bawah ini                     ║
+  ║                                                          ║
+  ║  REKOMENDASI UKURAN FOTO: 800x200px atau 1200x300px      ║
+  ║  Tools bikin banner gratis:                              ║
+  ║  → canva.com  |  figma.com  |  photopea.com             ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
 
-  <!-- Background -->
-  <rect width="800" height="200" fill="url(#bg)" rx="12"/>
-
-  <!-- Grid lines (cyberpunk effect) -->
-  <g opacity="0.08" stroke="#00f5ff" stroke-width="0.5">
-    <line x1="0" y1="40" x2="800" y2="40"/>
-    <line x1="0" y1="80" x2="800" y2="80"/>
-    <line x1="0" y1="120" x2="800" y2="120"/>
-    <line x1="0" y1="160" x2="800" y2="160"/>
-    <line x1="160" y1="0" x2="160" y2="200"/>
-    <line x1="320" y1="0" x2="320" y2="200"/>
-    <line x1="480" y1="0" x2="480" y2="200"/>
-    <line x1="640" y1="0" x2="640" y2="200"/>
-  </g>
-
-  <!-- Accent lines -->
-  <line x1="0" y1="4" x2="800" y2="4" stroke="#ff003c" stroke-width="2" opacity="0.8"/>
-  <line x1="0" y1="196" x2="800" y2="196" stroke="#00f5ff" stroke-width="2" opacity="0.8"/>
-
-  <!-- Corner decorations -->
-  <rect x="10" y="10" width="20" height="2" fill="#ff003c"/>
-  <rect x="10" y="10" width="2" height="20" fill="#ff003c"/>
-  <rect x="770" y="10" width="20" height="2" fill="#00f5ff"/>
-  <rect x="788" y="10" width="2" height="20" fill="#00f5ff"/>
-  <rect x="10" y="188" width="20" height="2" fill="#00f5ff"/>
-  <rect x="10" y="170" width="2" height="20" fill="#00f5ff"/>
-  <rect x="770" y="188" width="20" height="2" fill="#ff003c"/>
-  <rect x="788" y="170" width="2" height="20" fill="#ff003c"/>
-
-  <!-- Main title with glow -->
-  <text x="400" y="85" text-anchor="middle" font-family="'Courier New', monospace" font-size="42" font-weight="bold" fill="#ff003c" opacity="0.3" filter="url(#glow)">AUGIE ADITAMA</text>
-  <text x="402" y="85" text-anchor="middle" font-family="'Courier New', monospace" font-size="42" font-weight="bold" fill="#00f5ff" opacity="0.3">AUGIE ADITAMA</text>
-  <text x="400" y="83" text-anchor="middle" font-family="'Courier New', monospace" font-size="42" font-weight="bold" fill="#ffffff">AUGIE ADITAMA</text>
-
-  <!-- Subtitle -->
-  <text x="400" y="115" text-anchor="middle" font-family="'Courier New', monospace" font-size="14" fill="#00f5ff" letter-spacing="6">DATA · AI · MACHINE LEARNING</text>
-
-  <!-- Bio line -->
-  <rect x="150" y="128" width="500" height="1" fill="url(#glitch)" opacity="0.5"/>
-  <text x="400" y="152" text-anchor="middle" font-family="'Courier New', monospace" font-size="13" fill="#aaaaaa" font-style="italic">" Data never lies. My model does. "</text>
-
-  <!-- Status indicator -->
-  <circle cx="320" cy="175" r="4" fill="#00ff88">
-    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <text x="332" y="179" font-family="'Courier New', monospace" font-size="11" fill="#00ff88">SYSTEM ONLINE</text>
-
-  <!-- ID tag -->
-  <text x="680" y="179" font-family="'Courier New', monospace" font-size="10" fill="#ff003c" opacity="0.7">ID: tamaraw01</text>
-</svg>
+<img
+  src="https://i.pinimg.com/1200x/04/3c/c7/043cc74e58d17f6715746baecddc99d3.jpg"
+  alt="Augie Aditama — Data · AI · Machine Learning"
+  width="800"
+  style="border-radius: 12px; border: 1px solid #ff003c;"
+/>
 
 ---
 
