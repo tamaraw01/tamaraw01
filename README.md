@@ -84,9 +84,8 @@
 ```python
 profile = {
     "name"      : "Augie Aditama",
-    "alias"     : "tamaraw01",
     "role"      : "Data Scientist & AI/ML Engineer",
-    "origin"    : "Indonesia 🇮🇩",
+    "origin"    : "Indonesia",
     "focus"     : ["Deep Learning", "Computer Vision", "Predictive Modeling"],
     "current"   : "Building AI that actually works (mostly)",
     "philosophy": "Data never lies. My model does.",
@@ -133,7 +132,7 @@ profile = {
 <tr>
 <td width="50%">
 
-### 🔴 Pothole-Segmentation
+### Pothole-Segmentation
 > Semantic segmentation pipeline using **UNet++ with EfficientNet-B5** encoder, trained with **PyTorch** + Albumentations + mixed-precision training for real-world road damage detection.
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-0d0d0d?style=flat&logo=pytorch&logoColor=ff003c)
@@ -142,7 +141,7 @@ profile = {
 </td>
 <td width="50%">
 
-### 🔵 Customer-Loyalty-Prediction
+### Customer-Loyalty-Prediction
 > Predictive model for next-month repurchase behavior using **XGBoost & MLP** on transactional data. Bridging the gap between data patterns and real business decisions.
 
 ![XGBoost](https://img.shields.io/badge/-XGBoost-0d0d0d?style=flat&logo=python&logoColor=00f5ff)
@@ -153,7 +152,7 @@ profile = {
 <tr>
 <td width="50%">
 
-### 🟢 Image-Based Classification of Indonesian Traditional Houses
+### Image-Based Classification of Indonesian Traditional Houses
 > Deep learning classifier identifying **5 types of traditional Indonesian houses** via transfer learning with **ResNet-50** and the FastAI framework. Preserving culture through AI.
 
 ![FastAI](https://img.shields.io/badge/-FastAI-0d0d0d?style=flat&logo=python&logoColor=00ff88)
@@ -162,7 +161,7 @@ profile = {
 </td>
 <td width="50%">
 
-### 🟣 Glaucoma-Detection from Deep Fundus Images
+### Glaucoma-Detection from Deep Fundus Images
 > Binary classification of Glaucomatous Optic Neuropathy (GON+ vs GON−) using **EfficientNet-B3** on the HYGD dataset. Medical AI for early detection.
 
 ![EfficientNet](https://img.shields.io/badge/-EfficientNet--B3-0d0d0d?style=flat&logo=python&logoColor=cc44ff)
