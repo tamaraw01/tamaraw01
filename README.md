@@ -23,7 +23,7 @@
 ---
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+Predictive+Modeling;Building+models+that+(sometimes)+lie...;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+Predictive+Modeling;Building+models+that+(sometimes)+lie...;Always+learning%2C+always+Growing)](https://git.io/typing-svg)
 
 </div>
 
@@ -163,7 +163,7 @@ profile = {
 -->
 
 <img
-  src="[https://YOUR_FOOTER_IMAGE_URL_HERE.png](https://i.pinimg.com/736x/4b/d8/8c/4bd88c24c8967e0c769612d0bc008499.jpg)"
+  src="https://i.pinimg.com/736x/4b/d8/8c/4bd88c24c8967e0c769612d0bc008499.jpg"
   alt="footer"
   width="800"
   style="border-radius: 8px;"
