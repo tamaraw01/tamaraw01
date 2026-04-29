@@ -23,7 +23,7 @@
 ---
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+Predictive+Modeling;Building+models+that+(sometimes)+lie...;Always+learning%2C+always+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+Predictive+Modeling;Building+models+that+(sometimes)+lie...;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
 </div>
 
