@@ -163,7 +163,7 @@ profile = {
 -->
 
 <img
-  src="https://i.pinimg.com/1200x/e3/42/97/e342973eada30ca27feac97e5ffb51e7.jpg"
+  src="https://i.pinimg.com/1200x/2f/a3/6c/2fa36ccdfa1b6f4d8605794eec0cccb9.jpg"
   alt="footer"
   width="800"
   style="border-radius: 8px;"
