@@ -29,39 +29,22 @@
 
 ---
 
-## ◈ SYSTEM PROFILE
+## About
 
-```bash
-┌──────────────────────────────────────────────────────────┐
-│                   TAMARAW01 ~ TERMINAL                   │
-└──────────────────────────────────────────────────────────┘
-
-$ whoami
-  augie-aditama
-
-$ cat profile.json
-  {
-    "name"       : "Augie Aditama",
-    "alias"      : "tamaraw01",
-    "role"       : "Data Scientist & AI/ML Engineer",
-    "origin"     : "Indonesia",
-    "focus"      : ["Deep Learning", "Computer Vision", "Predictive Modeling"],
-    "status"     : "Building AI that actually works (mostly)",
-    "philosophy" : "Data never lies. My model does."
-  }
-
-$ ls -la ./connect/
-  drwxr-xr-x  linkedin   → linkedin.com/in/augieaditama
-  drwxr-xr-x  kaggle     → kaggle.com/augieaditama
-  drwxr-xr-x  github     → github.com/tamaraw01
-
-$ uptime
-  Always learning. Never stopping. ██████████ 100%
-
-$ █
+```python
+{
+  "name"       : "Augie Aditama",
+  "alias"      : "tamaraw01",
+  "role"       : "Data Scientist & AI/ML Engineer",
+  "origin"     : "Indonesia",
+  "focus"      : ["Deep Learning", "Computer Vision", "Predictive Modeling"],
+  "philosophy" : "Data never lies. My model does."
+}
 ```
 
-## ◈ TECH STACK
+<br/>
+
+## TECH STACK
 
 <div align="center">
 
@@ -91,7 +74,7 @@ $ █
 
 ---
 
-## ◈ MISSION LOG — Featured Projects
+## MISSION LOG — Featured Projects
 
 <table>
 <tr>
@@ -138,7 +121,7 @@ $ █
 
 ---
 
-## ◈ GITHUB STATS
+## GITHUB STATS
 
 <div align="center">
 
@@ -156,7 +139,7 @@ $ █
 
 ---
 
-## ◈ CONNECT
+## CONNECT
 
 <div align="center">
 
