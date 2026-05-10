@@ -125,14 +125,6 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tamaraw01&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=00f5ff&icon_color=ff003c&text_color=aaaaaa&border_color=333333&border_radius=8" alt="Augie's GitHub Stats"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaraw01&layout=compact&theme=dark&bg_color=0d0d0d&title_color=00f5ff&text_color=aaaaaa&border_color=333333&border_radius=8" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=tamaraw01&theme=dark&background=0d0d0d&border=333333&ring=ff003c&fire=ff8800&currStreakLabel=00f5ff&sideLabels=aaaaaa&dates=666666&border_radius=8)](https://git.io/streak-stats)
 
 </div>
