@@ -33,8 +33,8 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J71ZD2QO)
 
-[<img width="820" height="820" alt="image" src="https://github.com/user-attachments/assets/8fcada51-2eb0-4dd8-b51e-2a19b71dc5f5" />
-](https://saweria.co/augieaditama)
+[Support me on Saweria](https://saweria.co/augieaditama)
+
 
 ## About
 
