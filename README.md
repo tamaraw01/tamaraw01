@@ -43,7 +43,6 @@
   "name"       : "Augie Aditama",
   "alias"      : "tamaraw01",
   "role"       : "Data Scientist & AI/ML Engineer",
-  "origin"     : "Indonesia",
   "focus"      : ["Deep Learning", "Computer Vision", "Predictive Modeling"],
   "philosophy" : "Data never lies. My model does."
 }
