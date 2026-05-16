@@ -86,8 +86,10 @@
 <tr>
 <td width="50%">
 
-### Pothole-Segmentation
+### [Pothole-Segmentation](https://github.com/tamaraw01/Pothole-Segmentation)
 > Semantic segmentation pipeline using **UNet++ with EfficientNet-B5** encoder, trained with **PyTorch** + Albumentations + mixed-precision training for real-world road damage detection.
+
+[![Pothole-Segmentation](https://github-readme-stats.vercel.app/api/pin/?username=tamaraw01&repo=Pothole-Segmentation&theme=dark&bg_color=0d0d0d&border_color=333333&title_color=00f5ff&icon_color=ff003c&text_color=aaaaaa)](https://github.com/tamaraw01/Pothole-Segmentation)
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-0d0d0d?style=flat&logo=pytorch&logoColor=ff003c)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-0d0d0d?style=flat&logo=jupyter&logoColor=ff8800)
@@ -95,8 +97,10 @@
 </td>
 <td width="50%">
 
-### Customer-Loyalty-Prediction
+### [Customer-Loyalty-Prediction](https://github.com/tamaraw01/Customer-Loyalty-Prediction)
 > Predictive model for next-month repurchase behavior using **XGBoost & MLP** on transactional data. Bridging the gap between data patterns and real business decisions.
+
+[![Customer-Loyalty-Prediction](https://github-readme-stats.vercel.app/api/pin/?username=tamaraw01&repo=Customer-Loyalty-Prediction&theme=dark&bg_color=0d0d0d&border_color=333333&title_color=00f5ff&icon_color=ff003c&text_color=aaaaaa)](https://github.com/tamaraw01/Customer-Loyalty-Prediction)
 
 ![XGBoost](https://img.shields.io/badge/-XGBoost-0d0d0d?style=flat&logo=python&logoColor=00f5ff)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-0d0d0d?style=flat&logo=jupyter&logoColor=ff8800)
@@ -106,8 +110,10 @@
 <tr>
 <td width="50%">
 
-### Image-Based Classification of Indonesian Traditional Houses
+### [Image-Based-Classification-of-Indonesian-Traditional-Houses](https://github.com/tamaraw01/Image-Based-Classification-of-Indonesian-Traditional-Houses)
 > Deep learning classifier identifying **5 types of traditional Indonesian houses** via transfer learning with **ResNet-50** and the FastAI framework. Preserving culture through AI.
+
+[![Image-Based-Classification-of-Indonesian-Traditional-Houses](https://github-readme-stats.vercel.app/api/pin/?username=tamaraw01&repo=Image-Based-Classification-of-Indonesian-Traditional-Houses&theme=dark&bg_color=0d0d0d&border_color=333333&title_color=00f5ff&icon_color=ff003c&text_color=aaaaaa)](https://github.com/tamaraw01/Image-Based-Classification-of-Indonesian-Traditional-Houses)
 
 ![FastAI](https://img.shields.io/badge/-FastAI-0d0d0d?style=flat&logo=python&logoColor=00ff88)
 ![ResNet](https://img.shields.io/badge/-ResNet--50-0d0d0d?style=flat&logo=python&logoColor=aaaaaa)
@@ -115,8 +121,10 @@
 </td>
 <td width="50%">
 
-### Glaucoma-Detection from Deep Fundus Images
+### [Glaucoma-Detection](https://github.com/tamaraw01/Glaucoma-Detection)
 > Binary classification of Glaucomatous Optic Neuropathy (GON+ vs GON−) using **EfficientNet-B3** on the HYGD dataset. Medical AI for early detection.
+
+[![Glaucoma-Detection](https://github-readme-stats.vercel.app/api/pin/?username=tamaraw01&repo=Glaucoma-Detection&theme=dark&bg_color=0d0d0d&border_color=333333&title_color=00f5ff&icon_color=ff003c&text_color=aaaaaa)](https://github.com/tamaraw01/Glaucoma-Detection)
 
 ![EfficientNet](https://img.shields.io/badge/-EfficientNet--B3-0d0d0d?style=flat&logo=python&logoColor=cc44ff)
 ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat&logo=python&logoColor=00f5ff)
