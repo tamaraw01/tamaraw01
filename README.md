@@ -135,16 +135,6 @@
 
 ---
 
-## GITHUB STATS
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tamaraw01&theme=dark&background=0d0d0d&border=333333&ring=ff003c&fire=ff8800&currStreakLabel=00f5ff&sideLabels=aaaaaa&dates=666666&border_radius=8)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## CONNECT
 
 <div align="center">
