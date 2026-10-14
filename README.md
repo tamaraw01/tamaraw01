@@ -121,10 +121,10 @@
 </td>
 <td width="50%">
 
-### [Glaucoma-Detection](https://github.com/tamaraw01/Glaucoma-Detection)
+### [Glaucoma-Detection](https://github.com/tamaraw01/Glaucoma-Detection-from-Deep-Fundus-Images)
 > Binary classification of Glaucomatous Optic Neuropathy (GON+ vs GON−) using **EfficientNet-B3** on the HYGD dataset. Medical AI for early detection.
 
-[![Glaucoma-Detection](https://github-readme-stats.vercel.app/api/pin/?username=tamaraw01&repo=Glaucoma-Detection&theme=dark&bg_color=0d0d0d&border_color=333333&title_color=00f5ff&icon_color=ff003c&text_color=aaaaaa)](https://github.com/tamaraw01/Glaucoma-Detection)
+[![Glaucoma-Detection](https://github-readme-stats.vercel.app/api/pin/?username=tamaraw01&repo=Glaucoma-Detection-from-Deep-Fundus-Images&theme=dark&bg_color=0d0d0d&border_color=333333&title_color=00f5ff&icon_color=ff003c&text_color=aaaaaa)](https://github.com/tamaraw01/Glaucoma-Detection-from-Deep-Fundus-Images)
 
 ![EfficientNet](https://img.shields.io/badge/-EfficientNet--B3-0d0d0d?style=flat&logo=python&logoColor=cc44ff)
 ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat&logo=python&logoColor=00f5ff)
