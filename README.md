@@ -24,15 +24,11 @@
 
 ## About
 
-```python
-{
-  "name"       : "Augie Aditama",
-  "alias"      : "tamaraw01",
-  "role"       : "Data Scientist & AI/ML Engineer",
-  "focus"      : ["Deep Learning", "Computer Vision", "Predictive Modeling"],
-  "philosophy" : "Data never lies. My model does."
-}
-```
+I study statistics and build projects in applied machine learning, with a focus on computer vision and predictive modeling. My work includes image-classification and segmentation pipelines, inference APIs, and developer tools for working with language models.
+
+I use Python for data analysis and modeling, TypeScript for web interfaces, and Rust for command-line tooling. I care about how a model is evaluated, whether a project can be reproduced, and where its results stop being reliable.
+
+I am open to part-time remote opportunities in data analysis, Python automation, and applied ML.
 
 <br/>
 
