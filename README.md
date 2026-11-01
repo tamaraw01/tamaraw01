@@ -1,169 +1,44 @@
-<div align="center">
+# Data, applied AI, and developer tools
 
-<!--
-  ╔══════════════════════════════════════════════════════════╗
-  ║  HEADER PHOTO — CARA PASANG:                             ║
-  ║  1. Upload foto/banner ke repo GitHub kamu               ║
-  ║  2. Copy URL raw foto tersebut                           ║
-  ║  3. Ganti URL di src="" di bawah ini                     ║
-  ║                                                          ║
-  ║  REKOMENDASI UKURAN FOTO: 800x200px atau 1200x300px      ║
-  ║  Tools bikin banner gratis:                              ║
-  ║  → canva.com  |  figma.com  |  photopea.com             ║
-  ╚══════════════════════════════════════════════════════════╝
--->
+I build image-analysis prototypes and tools for working with language models. My projects cover Python ML pipelines, inference APIs, TypeScript interfaces, and a Rust command-line tool.
 
-<img
-  src="https://i.pinimg.com/1200x/04/3c/c7/043cc74e58d17f6715746baecddc99d3.jpg"
-  alt="Augie Aditama — Data · AI · Machine Learning"
-  width="800"
-  style="border-radius: 12px; border: 1px solid #ff003c;"
-/>
+I am interested in part-time remote work involving data analysis, Python automation, or applied machine learning. These repositories document the implementation, setup, and current limits of each project.
 
----
+## Selected projects
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Engineer;Deep+Learning+%7C+Computer+Vision+%7C+Predictive+Modeling;Building+models+that+(sometimes)+lie...;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+### [E-WISE](https://github.com/tamaraw01/ewise-triage)
 
-</div>
+An e-waste image-triage prototype using CLIP embeddings and reference cluster centroids. A Next.js interface connects to a Python inference backend, with upload validation, low-margin rejection, and handling-route information.
 
----
+Includes inference artifacts, API contract checks, image-boundary tests, and deployment documentation. Reference-dataset metrics are not field-performance estimates. Hosted image requests go to an external inference service; some evidence checks require research inputs that are intentionally excluded from the public repository.
 
-## Support
+Python · PyTorch · CLIP · FastAPI · Next.js · TypeScript
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J71ZD2QO)
+### [ctx-budget](https://github.com/tamaraw01/ctx-budget)
 
-[Support me on Saweria](https://saweria.co/augieaditama)
+A local Rust CLI that estimates how tokens are distributed across a codebase, ranks files, and exports text, JSON, or CSV reports for context planning.
 
+Includes unit tests, CLI integration tests, and CI configuration. The estimator uses a word/byte heuristic rather than a model tokenizer. Check bundled model specifications against provider documentation before planning requests.
 
-## About
+Rust · CLI · Code analysis
 
-```python
-{
-  "name"       : "Augie Aditama",
-  "alias"      : "tamaraw01",
-  "role"       : "Data Scientist & AI/ML Engineer",
-  "focus"      : ["Deep Learning", "Computer Vision", "Predictive Modeling"],
-  "philosophy" : "Data never lies. My model does."
-}
-```
+### [NanoCoT](https://github.com/tamaraw01/nanocot)
 
-<br/>
+An experimental chat-completions proxy that routes requests with simple complexity rules, adds short reasoning instructions, and removes specifically tagged response blocks.
 
-## TECH STACK
+Includes dependency-free component tests for routing, injection, and text cleanup. It does not establish model-quality gains or measured API savings. Streaming is buffered, and the proxy needs trusted-network deployment.
 
-<div align="center">
+Python · FastAPI · API integration
 
-**Languages & Core**
+## Computer-vision research
 
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00f5ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=00f5ff)
-![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=ff003c)
+- [Fundus-image classification](https://github.com/tamaraw01/Glaucoma-Detection-from-Deep-Fundus-Images): modular EfficientNet-B3 training, patient-grouped splits, evaluation, and Grad-CAM. The README documents a default-training shape bug and setup limitations. No trained checkpoint or clinical-performance claim is supplied.
+- [Pothole segmentation](https://github.com/tamaraw01/Pothole-Segmentation): UNet++ notebook with composite loss, validation threshold selection, and RLE export. The README records unresolved inference geometry and augmentation-compatibility issues. Model results have not been reproduced.
 
-**ML / DL Frameworks**
+## Tools used in these repositories
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ff003c)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=ff8800)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=00f5ff)
-![FastAI](https://img.shields.io/badge/FastAI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=00ff88)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d0d0d?style=for-the-badge&logo=xgboost&logoColor=ff003c)
+Python, Rust, TypeScript, SQL, PyTorch, scikit-learn, FastAPI, Next.js, Docker, and GitHub Actions.
 
-**Data & Visualization**
+## Contact
 
-![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=00f5ff)
-![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=4dabf7)
-![Albumentations](https://img.shields.io/badge/Albumentations-0d0d0d?style=for-the-badge&logo=python&logoColor=ff003c)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=ff8800)
-![Kaggle](https://img.shields.io/badge/Kaggle-0d0d0d?style=for-the-badge&logo=kaggle&logoColor=20beff)
-
-</div>
-
----
-
-## MISSION LOG — Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### [Pothole-Segmentation](https://github.com/tamaraw01/Pothole-Segmentation)
-> Semantic segmentation pipeline using **UNet++ with EfficientNet-B5** encoder, trained with **PyTorch** + Albumentations + mixed-precision training for real-world road damage detection.
-
-[![Pothole-Segmentation](https://github-readme-stats.vercel.app/api/pin/?username=tamaraw01&repo=Pothole-Segmentation&theme=dark&bg_color=0d0d0d&border_color=333333&title_color=00f5ff&icon_color=ff003c&text_color=aaaaaa)](https://github.com/tamaraw01/Pothole-Segmentation)
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-0d0d0d?style=flat&logo=pytorch&logoColor=ff003c)
-![Jupyter](https://img.shields.io/badge/-Jupyter-0d0d0d?style=flat&logo=jupyter&logoColor=ff8800)
-
-</td>
-<td width="50%">
-
-### [Customer-Loyalty-Prediction](https://github.com/tamaraw01/Customer-Loyalty-Prediction)
-> Predictive model for next-month repurchase behavior using **XGBoost & MLP** on transactional data. Bridging the gap between data patterns and real business decisions.
-
-[![Customer-Loyalty-Prediction](https://github-readme-stats.vercel.app/api/pin/?username=tamaraw01&repo=Customer-Loyalty-Prediction&theme=dark&bg_color=0d0d0d&border_color=333333&title_color=00f5ff&icon_color=ff003c&text_color=aaaaaa)](https://github.com/tamaraw01/Customer-Loyalty-Prediction)
-
-![XGBoost](https://img.shields.io/badge/-XGBoost-0d0d0d?style=flat&logo=python&logoColor=00f5ff)
-![Jupyter](https://img.shields.io/badge/-Jupyter-0d0d0d?style=flat&logo=jupyter&logoColor=ff8800)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [Image-Based-Classification-of-Indonesian-Traditional-Houses](https://github.com/tamaraw01/Image-Based-Classification-of-Indonesian-Traditional-Houses)
-> Deep learning classifier identifying **5 types of traditional Indonesian houses** via transfer learning with **ResNet-50** and the FastAI framework. Preserving culture through AI.
-
-[![Image-Based-Classification-of-Indonesian-Traditional-Houses](https://github-readme-stats.vercel.app/api/pin/?username=tamaraw01&repo=Image-Based-Classification-of-Indonesian-Traditional-Houses&theme=dark&bg_color=0d0d0d&border_color=333333&title_color=00f5ff&icon_color=ff003c&text_color=aaaaaa)](https://github.com/tamaraw01/Image-Based-Classification-of-Indonesian-Traditional-Houses)
-
-![FastAI](https://img.shields.io/badge/-FastAI-0d0d0d?style=flat&logo=python&logoColor=00ff88)
-![ResNet](https://img.shields.io/badge/-ResNet--50-0d0d0d?style=flat&logo=python&logoColor=aaaaaa)
-
-</td>
-<td width="50%">
-
-### [Glaucoma-Detection](https://github.com/tamaraw01/Glaucoma-Detection-from-Deep-Fundus-Images)
-> Binary classification of Glaucomatous Optic Neuropathy (GON+ vs GON−) using **EfficientNet-B3** on the HYGD dataset. Medical AI for early detection.
-
-[![Glaucoma-Detection](https://github-readme-stats.vercel.app/api/pin/?username=tamaraw01&repo=Glaucoma-Detection-from-Deep-Fundus-Images&theme=dark&bg_color=0d0d0d&border_color=333333&title_color=00f5ff&icon_color=ff003c&text_color=aaaaaa)](https://github.com/tamaraw01/Glaucoma-Detection-from-Deep-Fundus-Images)
-
-![EfficientNet](https://img.shields.io/badge/-EfficientNet--B3-0d0d0d?style=flat&logo=python&logoColor=cc44ff)
-![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat&logo=python&logoColor=00f5ff)
-
-</td>
-</tr>
-</table>
-
----
-
-## CONNECT
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](https://linkedin.com/in/augieaditama)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0d0d0d?style=for-the-badge&logo=kaggle&logoColor=20beff)](https://www.kaggle.com/augieaditama)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/tamaraw01)
-
-</div>
-
----
-
-<div align="center">
-
-<!--
-  ╔══════════════════════════════════════════════════════════╗
-  ║  FOOTER PHOTO — CARA PASANG:                             ║
-  ║  Ganti URL src="" dengan URL foto footer kamu            ║
-  ║  Ukuran rekomendasi: 800x80px atau 1200x120px            ║
-  ╚══════════════════════════════════════════════════════════╝
--->
-
-<img
-  src="https://i.pinimg.com/1200x/2f/a3/6c/2fa36ccdfa1b6f4d8605794eec0cccb9.jpg"
-  alt="footer"
-  width="800"
-  style="border-radius: 8px;"
-/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=tamaraw01&color=ff003c&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
+[Open a profile issue](https://github.com/tamaraw01/tamaraw01/issues) to discuss a project or a scoped collaboration. Keep credentials and private datasets out of public issues.
