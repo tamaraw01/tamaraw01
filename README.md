@@ -21,6 +21,21 @@
 
 [Support me on Saweria](https://saweria.co/augieaditama)
 
+<details>
+<summary>Support via QRIS (Indonesia)</summary>
+
+<br/>
+
+<a href="assets/qris-augie-aditama.jpeg">
+  <img src="assets/qris-augie-aditama.jpeg" alt="QRIS for AUGIE ADITAMA, EDUKASI. NMID: ID1026546635289. Open for full-size image." width="320" />
+</a>
+
+**Recipient: AUGIE ADITAMA, EDUKASI**<br/>
+NMID: `ID1026546635289`
+
+Scan with your bank or e-wallet app, or tap the image for full size. Check that the recipient name and amount are correct in your payment app before confirming. Never share your PIN or OTP.
+
+</details>
 
 ## About
 
