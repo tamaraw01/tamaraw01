@@ -2,7 +2,7 @@
 
 <img
   src="https://i.pinimg.com/1200x/04/3c/c7/043cc74e58d17f6715746baecddc99d3.jpg"
-  alt="Augie Aditama — Data · AI · Machine Learning"
+  alt="Augie Aditama: Data · AI · Machine Learning"
   width="800"
   style="border-radius: 12px; border: 1px solid #ff003c;"
 />
@@ -55,14 +55,16 @@ I am open to part-time remote opportunities in data analysis, Python automation,
 
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00f5ff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=00f5ff)
+![Rust](https://img.shields.io/badge/Rust-0d0d0d?style=for-the-badge&logo=rust&logoColor=ff8800)
 ![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=ff003c)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=00ff88)
 
 **ML / DL Frameworks**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d0d0d?style=for-the-badge&logo=pytorch&logoColor=ff003c)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=for-the-badge&logo=tensorflow&logoColor=ff8800)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0d0d0d?style=for-the-badge&logo=scikitlearn&logoColor=00f5ff)
-![FastAI](https://img.shields.io/badge/FastAI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=00ff88)
+![fastai](https://img.shields.io/badge/fastai-0d0d0d?style=for-the-badge&logo=python&logoColor=00ff88)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0d0d0d?style=for-the-badge&logo=xgboost&logoColor=ff003c)
 
 **Data & Visualization**
@@ -77,7 +79,7 @@ I am open to part-time remote opportunities in data analysis, Python automation,
 
 ---
 
-## MISSION LOG — Featured Projects
+## MISSION LOG: Featured Projects
 
 <table>
 <tr>
